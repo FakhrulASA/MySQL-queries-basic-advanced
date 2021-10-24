@@ -1,2 +1,2 @@
 # MySQL-queries-basic-advanced
-## I tried to use all of the availbe querry of sql in this project.
+## You will find all the MySQL queries in this repositories from very basic to advanced. Feel free to fork, clone and use it as per as your need
